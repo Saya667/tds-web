@@ -1,12 +1,25 @@
 body{
     font-family: 'Roboto', sans-serif;
     font-size: medium ;
+    background-color: #f7f7f7;
 }
 
 .bouton{
-    justify-content: center;
-    display: flex;
-    font-size: 10px;
+    text-align: center;
+    background-color: black;
+    width: 1000px;
+    padding: 30px;
+    margin: auto;
+    color: white;
+    text-transform: uppercase;
+}
+
+li{
+    padding: 3px;
+}
+
+.numero{
+    
 }
 
 span{
