@@ -1,0 +1,28 @@
+.center{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+table {
+    width: 75%;
+    border-collapse: collapse;
+    margin: auto;
+    font-family: 'Roboto', sans-serif;
+    }
+
+    td, th {
+    border: thin solid #c9c9c9;
+    min-width: 50px;
+    padding: 1%;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    }
+
+    th{
+        background-color: rgba(243, 243, 243, 0.986);
+        text-transform: uppercase;
+    }
+
+    .grey{
+        background-color: rgb(230, 230, 230);
+    }
